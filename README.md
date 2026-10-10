@@ -1,12 +1,11 @@
 # Hi, I'm Annie Qurat 👋
 
-Data Analyst based in Germany with 4+ years of experience in supply chain, retail, and cybersecurity analytics.
+I am a Data Analyst based in Germany with 4+ years of experience in supply chain, retail, and cybersecurity analytics.
 
 ## Tech Stack
 - SQL
 - Python (pandas, scikit-learn)
-- Power BI
-- RELEX
+- Power BI, RELEX
 - Power Query (M)
 
 ## Professional Experience
@@ -14,13 +13,15 @@ Data Analyst based in Germany with 4+ years of experience in supply chain, retai
 - DemandTex — Forecast validation & replenishment analytics across 20 countries
 
 ## Featured Projects
-- Retail SQL Analysis
-- Demand Forecasting with Python
-- Power BI Dashboard Projects
+- [Semantic Search with Sentence Embeddings](https://github.com/AnnieQurat/Semantic-Search-with-Sentence-Embeddings): a hands-on project on embeddings and semantic search, using a pretrained model
+- [Retail Analysis Python / SQL](https://github.com/AnnieQurat/retail-sales-analysis, https://github.com/AnnieQurat/superstore_sql_analysis): project exploring retail store data using Python and SQL
+- [ETL Customer Analysis using Python](https://github.com/AnnieQurat/UK-Online-Retail-ETL-Customer-Analysis): extract-transform-load customer analysis using Python
+
+## Currently Refreshing my knowledge on
+Embeddings, LLMs and semantic search 
 
 ## Portfolio
 🌐 https://anniequrat.github.io
 
 ## Currently Seeking
-Full-time Data Analyst / BI Analyst opportunities in Germany
-Blue Card eligible
+Data Analyst / BI Analyst and data & AI roles in Germany 
