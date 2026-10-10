@@ -9,8 +9,8 @@ I am a Data Analyst based in Germany with 4+ years of experience in supply chain
 - Power Query (M)
 
 ## Professional Experience
-- Siemens Energy — Cybersecurity reporting & Power BI dashboards
-- DemandTex — Forecast validation & replenishment analytics across 20 countries
+- Siemens Energy: Cybersecurity reporting 
+- DemandTex: Forecast validation & replenishment analytics 
 
 ## Featured Projects
 - [Semantic Search with Sentence Embeddings](https://github.com/AnnieQurat/Semantic-Search-with-Sentence-Embeddings): a hands-on project on embeddings and semantic search, using a pretrained model
