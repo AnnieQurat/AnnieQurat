@@ -6,9 +6,7 @@ I’m a data analyst based in Germany. I started in political science, moved int
 - 4+ years in supply chain, retail and cybersecurity analytics (DemandTex, Siemens Energy)
 - SQL, Python (pandas, scikit-learn), Power BI, Power Query, RELEX
 - Forecast validation, replenishment analytics and reporting for non-technical teams
-
-## How I work
-I listen first, work out the real question, then build something simple that people can trust and use.
+- How I work: I listen first, work out the real question, then build something simple that people can trust and use.
 
 ## Right now
 - Learning German intensively (A2 → B1)
