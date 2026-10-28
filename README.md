@@ -11,8 +11,8 @@ I’m a data analyst based in Germany. I started in political science, moved int
 I listen first, work out the real question, then build something simple that people can trust and use.
 
 ## Right now
-Learning German intensively (A2 → B1)
-Building portfolio projects on real datasets
+- Learning German intensively (A2 → B1)
+- Building portfolio projects on real datasets
 
 ## Looking for
 Data and BI analyst roles where data meets supply chain, climate or development, in Germany. 
