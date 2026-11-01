@@ -8,9 +8,15 @@ I’m a data analyst based in Germany. I started in political science, moved int
 - Forecast validation, replenishment analytics and reporting for non-technical teams
 - How I work: I listen first, work out the real question, then build something simple that people can trust and use.
 
-## Right now
+### Right now
+
 - Learning German intensively (A2 → B1)
-- Building portfolio projects on real datasets
+- Building towards analytics engineering: [Data analytics engineer roadmap](https://github.com/AnnieQurat/Data-analytics-engineer-roadmap) (SQL, data modelling, Snowflake, dbt, CI/CD)
+- Building portfolio projects on public datasets
+
+### Looking for
+
+Data analyst and analytics engineering roles where data meets supply chain, energy or development, in Germany.
 
 ## Looking for
 Data and BI analyst roles where data meets supply chain, climate or development, in Germany. 
