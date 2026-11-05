@@ -1,6 +1,6 @@
 # Hi, I'm Annie Qurat 👋
 
-I’m a data analyst based in Germany. I started in political science, moved into data engineering, and then studied development economics. That mix is what I bring: I can work with the numbers, and I care about what they mean for people.
+I’m a data analyst based in Germany. I started in international relations, moved into data engineering, and then studied development economics. That mix is what I bring: I can work with the numbers, and I care about what they mean for people.
 
 ## What I do
 - 4+ years in supply chain, retail and cybersecurity analytics (DemandTex, Siemens Energy)
